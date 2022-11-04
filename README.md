@@ -32,13 +32,14 @@ During the exploratory data analysis, two things stood out:
 - Fit and Predict the pipeline with Gradient Boosting Classifier
 ### Step 8: Use GridSearch to get the best parameters.
 - Get predict score.
+### Step 9: Deploy Machine to the cloud.
 
 
 ## Results/Demo
-(fill in your model's performance, details about the API you created, and (optional) a link to an live demo)
+My model's performance was not strong.  The predictive scores were 72% while running the gridsearch somehow dropped the scores to 64%.  Somewhere I made a mistake although at this point it's difficult to assess where that was.
 
 ## Challenges 
-(discuss challenges you faced in the project)
+Correctly imputing the missing values for Credit History and Self-Employment were difficult.  The other big difficulty was deploying the project to the cloud.  There are still a number of steps that I don't have written down that I should.
 
 ## Future Goals
 (what would you do if you had more time? are there any potential issues/biases with your model/use case?)
