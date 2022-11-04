@@ -42,4 +42,4 @@ My model's performance was not strong.  The predictive scores were 72% while run
 Correctly imputing the missing values for Credit History and Self-Employment were difficult.  The other big difficulty was deploying the project to the cloud.  There are still a number of steps that I don't have written down that I should.
 
 ## Future Goals
-(what would you do if you had more time? are there any potential issues/biases with your model/use case?)
+In the future, I would like to spend more time running tests to better test my null hypothesis.
