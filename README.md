@@ -1,4 +1,4 @@
-# Mini-project IV
+# Mini-project IV - Fraud Detection
 
 ### [Assignment](assignment.md)
 
