@@ -17,7 +17,7 @@ During the exploratory data analysis, two things stood out:
 
 
 ## Process
-(fill in what you did during EDA, cleaning, feature engineering, modeling, deployment, testing)
+
 ### Step 1: Check for missing values.
 ### Step 2: Split the numerical and categorical variables
 - Move Loan_Amount_Term and Credit_History to categorical variable dataframe.  Switch their values to str equivalents.
